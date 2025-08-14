@@ -2,7 +2,7 @@
 <html lang="zh-Hant">
 <head>
     <meta charset="UTF-8">
-    <title>數字展示頁</title>
+    <title>ID複製</title>
     <style>
         body {
             font-family: Arial, sans-serif;
